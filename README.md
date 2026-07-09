@@ -17,7 +17,7 @@ RustScript combines familiar Rust-like syntax, strict typing, host-function bind
 |---|---|---|
 | Language + VM | [rustscript](https://github.com/rustscript-lang/rustscript) | RustScript compiler, bytecode VM, tooling, and WASM package |
 | Specification | [spec](https://github.com/rustscript-lang/spec) | Language specification and shared assets |
-| Playground | [playground](https://github.com/rustscript-lang/playground) | Browser playground for RustScript |
+| Playground | [playground](https://playground.rustscript.org) | Browser playground for RustScript |
 | Website | [website](https://github.com/rustscript-lang/website) | rustscript.org website |
 | Compatibility frontends | [rustscript-compat-frontends](https://github.com/rustscript-lang/rustscript-compat-frontends) | JavaScript and Lua frontend plugins for RustScript VM compatibility |
 | CLR VM | [rustscript-clr-vm](https://github.com/rustscript-lang/rustscript-clr-vm) | RustScript runtime on Microsoft CLR |
