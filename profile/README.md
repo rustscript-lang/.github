@@ -20,14 +20,7 @@ RustScript combines familiar Rust-like syntax, strict typing, host-function bind
 | CLR VM | [rustscript-clr-vm](https://github.com/rustscript-lang/rustscript-clr-vm) | RustScript runtime on Microsoft CLR |
 | Data plane | [pd-edge](https://github.com/rustscript-lang/pd-edge) | Programmable data plane powered by RustScript |
 | Control plane | [pd-controller](https://github.com/rustscript-lang/pd-controller) | Control plane for pd-edge |
-| Bevy example | [rustscript-bevy-gameplay](https://github.com/rustscript-lang/rustscript-bevy-gameplay) | Example repository for embedding RustScript in Bevy gameplay |
-| Pingora example | [rustscript-pingora-gateway](https://github.com/rustscript-lang/rustscript-pingora-gateway) | Real Pingora reverse proxy with RustScript request and response policy |
-| micro-rustscript | [micro-rustscript](https://github.com/rustscript-lang/micro-rustscript) | RustScript VMBC runner for constrained and embedded targets |
-| egui example | [rustscript-egui-ui](https://github.com/rustscript-lang/rustscript-egui-ui) | Example repository for embedding RustScript in egui UI apps |
-
-## Project focus
-
-- Portable typed scripts with Rust-like syntax
-- Embedding into apps, games, gateways, edge runtimes, and controllers
-- Compatibility frontends through plugins
-- Browser-based experimentation through the playground
+| Bevy example | [rustscript-bevy-gameplay](https://github.com/rustscript-lang/rustscript-bevy-gameplay) | RustScript in Bevy gameplay |
+| Pingora example | [rustscript-pingora-gateway](https://github.com/rustscript-lang/rustscript-pingora-gateway) | RustScript in Pingora reverse proxy with request and response policy |
+| micro-rustscript | [micro-rustscript](https://github.com/rustscript-lang/micro-rustscript) | RustScript on SoCs |
+| egui example | [rustscript-egui-ui](https://github.com/rustscript-lang/rustscript-egui-ui) | RustScript in egui UI apps |
