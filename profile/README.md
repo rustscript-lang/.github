@@ -20,7 +20,7 @@ RustScript combines familiar Rust-like syntax, strict typing, host-function bind
 | AI Inference | [flint](https://github.com/rustscript-lang/flint) | Scriptable inference runtime based on RustScript and libtorch |
 | Edge data plane | [pd-edge](https://github.com/rustscript-lang/pd-edge) | Programmable data plane powered by RustScript |
 | Edge control plane | [pd-controller](https://github.com/rustscript-lang/pd-controller) | Control plane for pd-edge |
-| CLR VM | [IronRust](https://github.com/rustscript-lang/IronRust) | RustScript runtime on Microsoft CLR |
+| IronRust | [IronRust](https://github.com/rustscript-lang/IronRust) | RustScript runtime on Microsoft CLR |
 | Bevy example | [rustscript-bevy-gameplay](https://github.com/rustscript-lang/rustscript-bevy-gameplay) | RustScript in Bevy gameplay |
 | Pingora example | [rustscript-pingora-gateway](https://github.com/rustscript-lang/rustscript-pingora-gateway) | RustScript in Pingora reverse proxy with request and response policy |
 | micro-rustscript | [micro-rustscript](https://github.com/rustscript-lang/micro-rustscript) | RustScript on SoCs |
